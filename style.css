@@ -38,13 +38,13 @@ nav ul li{
     
 }
 .container{
-    min-height: 72vh;
-    background-color: black;
+    min-height: 70vh;
+    background-color: rgb(8, 8, 8);
     color: white;
     font-family: 'Varela Round', sans-serif;
     display: flex;
     margin: 23px auto;
-    width: 70%;
+    width: 80vw;
     border-radius: 12px;
     padding: 34px;
     background-image: url('bg.jpg');
@@ -80,7 +80,7 @@ nav ul li{
     display: flex;
     background-color: white;
     color: black;
-    width: 130%;
+    width: 50vw;
     margin: 12px 0;
     justify-content: space-between;
     align-items: center;

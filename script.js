@@ -11,14 +11,14 @@ let songItems = Array.from(document.getElementsByClassName('songItems'));
 
 let songs = [
     {songName:"Justin Bieber-Baby ft.Ludacris", filePath: "songs/1.mp3", coverPath: "covers\10.jpg"},
-    {songName:"Justin Bieber–Despacito--ft.Luis Fonsi_Daddy Yankee ", filePath: "songs/2.mp3", coverPath: "covers\1.jpg"},
+    {songName:"Justin Bieber–Despacito", filePath: "songs/2.mp3", coverPath: "covers\1.jpg"},
     {songName:"Justin Bieber-Sorry ", filePath: "songs/3.mp3", coverPath: "covers\2.jpg"},
     {songName:"Marshmello-Alone", filePath: "songs/4.mp3", coverPath: "covers\3.jpg"},
     {songName:"So Many Things I Do", filePath: "songs/5.mp3", coverPath: "covers\4.jpg"},
     {songName:"On My Way-Alan Walker", filePath: "songs/6.mp3", coverPath: "covers\5.jpg"},
     {songName:"MC Fioti-Bum Bum Tam Tam", filePath: "songs/7.mp3", coverPath: "covers\6.jpg"},
     {songName:"Mauli Mauli_Lai Bhaari Marathi ", filePath: "songs/8.mp3", coverPath: "covers\7.jpg"},
-    {songName:"Martin Garrix_Dua Lipa-Scared To Be Lonely", filePath: "songs/9y.mp3", coverPath: "covers\8.jpg"},
+    {songName:"Scared To Be Lonely", filePath: "songs/9y.mp3", coverPath: "covers\8.jpg"},
     {songName:"Sub Urban-Cradles", filePath: "songs/10.mp3", coverPath: "covers\9.jpg"}
 
 
